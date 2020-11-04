@@ -1,0 +1,23 @@
+{
+  "name": "hangman-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyujunior/Hangman-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "Homepage": "https://eyujunior.github.io/Hangman-Game",
+  "bugs": {
+    "url": "https://github.com/eyujunior/Hangman-Game/issues"
+  },
+  "homepage": "https://github.com/eyujunior/Hangman-Game#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
